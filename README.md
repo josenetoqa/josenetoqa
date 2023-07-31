@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Duarte</h1>
 <h3 align="center">A passionate of quality from Brasil</h3>
 
-- 🌱 I’m currently learning **Selenium, Jmeter**
+- 🌱 I’m currently learning **Cypress and Studing to CTFL**
 
-- 👯 I’m looking to collaborate on **Project where quality matters and build automate testing cases**
+- 👯 I’m looking to collaborate on **Project where quality matters and build automate testing cases **
 
 - 📫 How to reach me **josepandia42@gmail.com**
 
